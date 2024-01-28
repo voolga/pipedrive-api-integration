@@ -1,3 +1,5 @@
+   ***Main task - implement a creation of new Deal and Client entity with custom fields using a form, placed on a third-party hosting service (also need to implement). Additional tasks - link new Deal with newly created Client; dinamical creation of form options for some fields that are connected with CRM custom fields (double-sided binding)***
+
 **1**
 Set up a website on free hosting service
 Iimplemented SSL certification
